@@ -43,8 +43,8 @@ Se ativado no início da partida, cada jogador tem direito a usar um **poder** u
 ## Instalação
 
 ```bash
-git clone <url-do-repositorio>
-cd numtab
+git clone https://github.com/levi-vasc/NumTab
+cd NumTab
 pip install -r requirements.txt
 ```
 
@@ -57,7 +57,7 @@ python main.py
 ## Estrutura do projeto
 
 ```
-numtab/
+NumTab/
 ├── main.py            # Loop principal do jogo e fluxo do menu
 ├── numtab.py          # Funções auxiliares (configuração, matriz, vitória, ranking, poder)
 ├── requirements.txt   # Dependências do projeto
