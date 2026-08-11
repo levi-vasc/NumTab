@@ -1,5 +1,7 @@
 # NumTab
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
 Jogo de tabuleiro numérico para dois jogadores, jogado no terminal e desenvolvido em Python. Cada jogador recebe um objetivo secreto (formar uma sequência **ascendente**, **descendente**, de números **pares** ou **ímpares**) e precisa posicionar números estrategicamente na matriz para completá-lo antes do adversário — enquanto tenta impedir que ele complete o dele.
 
 ## Como jogar
